@@ -1,0 +1,1 @@
+pub type HResult<T> = Result<T, i32>;

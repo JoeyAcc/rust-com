@@ -1,0 +1,9 @@
+[package]
+name = "com"
+version = "0.0.1"
+authors = ["miot"]
+
+build = "build.rs"
+
+description = "Windows COM bindings."
+license = "MIT/Apache-2.0"
